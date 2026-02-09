@@ -104,7 +104,7 @@ module.exports = {
       fs.writeFileSync(bgPath, finalBuffer);
 
       await message.reply({
-        body: "😎 হ্যাক সম্পূর্ণ!",
+        body: "𝑯𝑨𝑪𝑲𝑬𝑫 𝑩𝒀 𝑨𝑪𝑺 𝑻𝑶𝑵𝑴𝑶𝒀 ☠️",
         attachment: fs.createReadStream(bgPath)
       });
 
