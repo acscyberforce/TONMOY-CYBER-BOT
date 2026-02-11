@@ -3,7 +3,7 @@ module.exports = {
     name: "fork",
     version: "1.0.0",
     author: "Hinata",
-    role: 2, // 0 = all, 1 = group admin, 2 = bot admin
+    role: 0, // 0 = all, 1 = group admin, 2 = bot admin
     shortDescription: "Send GitHub repo link",
     longDescription: "Sends your GitHub repository link",
     category: "other",
