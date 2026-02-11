@@ -20,11 +20,11 @@ module.exports = {
 		if (event.body && event.body.toLowerCase() === "os") {
 			const mediaLinks = [
 				"https://files.catbox.moe/8066ce.mp4",
-				"https://files.catbox.moe/qsswur.jpg",
-				"",
-				"",
-				"",
-				"",
+				"https://files.catbox.moe/yf3gz5.mp4",
+				"https://files.catbox.moe/rhjkhg.mp4",
+				"https://files.catbox.moe/rq2fzt.mp4",
+				"https://files.catbox.moe/j0ifa2.mp4",
+				"https://files.catbox.moe/bni2rv.mp4",
 				"",
 				"",
 				"",
