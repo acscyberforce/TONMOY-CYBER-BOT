@@ -7,7 +7,7 @@ module.exports = {
     name: "acs",
     version: "1.0",
     author: "Gok",
-    countDown: 5,
+    countDown: 3,
     role: 2,
     shortDescription: "sarcasm",
     longDescription: "Responds with random media when someone says 'acs",
