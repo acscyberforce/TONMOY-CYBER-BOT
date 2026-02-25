@@ -12,7 +12,7 @@
   "antiInbox": false,
   "language": "en",
   "notesLanguage": "change language using ISO 639-1 code",
-  "nickNameBot": "⏤꯭֯🎀⃪꯭̽ᷝ𝑻𝑶𝑵𝑴𝑶𝒀 𝑩𝑨𝑩𝒀__👾♥︎‿♥︎",
+  "nickNameBot": "⏤꯭֯🎀⃪꯭̽ᷝ𝐓𝐎𝐍𝐌𝐎𝐘 𝐁𝐀𝐁𝐘__👾♥︎‿♥︎",
   "prefix": ".",
   "adminOnly": {
     "enable": false,
@@ -20,7 +20,7 @@
   },
   "adminBot": [
     "100077613090585",
-    "55297214737376"
+    "100026002182311"
   ],
   "reactUnsend": {
     "enable": true,
